@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Postgresql**
 
-- 👨‍💻 You can view/demo all my project sites here:<a href="https://michaeldoho.netlify.app/">click me</a>
+- 👨‍💻 You can view/demo all my project sites here: <a href="https://michaeldoho.netlify.app/">https://michaeldoho.netlify.app</a>
 
 - 📫 How to reach me? <a href="mailto:michaeldoho@hotmail.com">click me</a>
 
