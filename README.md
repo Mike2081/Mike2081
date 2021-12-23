@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Front End Developer</h3>
 
-- 🌱 I’m currently learning **Postgresql**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 You can view/demo all my project sites here: <a href="https://michaeldoho.netlify.app/">https://michaeldoho.netlify.app</a>
 
