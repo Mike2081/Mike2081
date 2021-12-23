@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 You can view/demo all my project sites here: <a href="https://michaeldoho.netlify.app/">https://michaeldoho.netlify.app</a>
+- 👨‍💻 You can view/demo all my project sites here: <a href="https://michaeldoho.netlify.app/" target="_blank"
+          rel="noreferrer" >https://michaeldoho.netlify.app</a>
 
 - 📫 How to reach me? <a href="mailto:michaeldoho@hotmail.com">click me</a>
 
